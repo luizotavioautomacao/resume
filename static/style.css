@@ -1,0 +1,39 @@
+/* Layout geral */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    line-height: 1.5;
+    margin: 2cm;
+    color: #000;
+    text-align: justify;
+}
+
+/* Forçar todos os títulos alinhados à esquerda e com margem uniforme */
+h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    font-weight: bold;
+}
+
+/* Ajustar margem vertical entre blocos */
+h1, h2, h3 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+a {
+    color: #0645AD;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo de parágrafo e corpo */
+p {
+    margin: 0.2em 0;
+    text-align: justify;
+}
