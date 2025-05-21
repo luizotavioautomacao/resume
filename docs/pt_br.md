@@ -79,7 +79,7 @@ Comunicação, Proatividade, Adaptabilidade, Trabalho em Equipe, Resiliência, O
 - **Programação**: Node.js, Ruby, TypeScript, C, C++, C#  
 - **Banco de Dados**: MySQL, Postgres, SQLite, MongoDB  
 - **Front-end**: Angular, React, Streamlit, Ruby on Rails, HTML5, CSS3  
-- **Frameworks**: Express, Mongoose, Entity, Flask, Django, Pandas, Openai, Langchain
+- **Frameworks**: Express, Mongoose, Entity, Flask, Django, Pandas, Openai, Langchain  
 - **Infraestrutura & DevOps**: Docker, Docker-Compose, AWS (EC2, S3), CI/CD, Cloud, Linux, Windows, Nginx  
 - **Rede & Protocolos**: DNS, SSL, HTTPS, TCP/IP, REST, JSON, Cliente-Servidor  
 - **Ferramentas**: Git, Swagger, Hubspot, JIRA, Office, Web scraping, Charles Proxy  
