@@ -2,7 +2,7 @@
 
 Campinas/SP • Uberaba/MG  
 luizotavioautomacao@gmail.com  
-[+55(19)92000-4364](https://api.whatsapp.com/send?phone=5519920004364)  
+[+55(19)92000-4364](https://wa.me/5519920004364)  
 [Cartão de Visita](https://luizotavio.netlify.app)  
 [Portfólio](https://luizotavio.netlify.app/portifolio)  
 [LinkedIn](https://www.linkedin.com/in/luiz-otavio-mendes-de-oliveira)  
