@@ -7,8 +7,6 @@ luizotavioautomacao@gmail.com
 [Portfólio](https://luizotavio.netlify.app/portifolio)  
 [LinkedIn](https://www.linkedin.com/in/luiz-otavio-mendes-de-oliveira)  
 [GitHub](https://github.com/luizotavioautomacao)  
-[MVP](https://gotech.education)  
-[Projeto com Nest, Next e Jest com repositório do Github](https://assistir-tv.shop)  
 
 ---
 
@@ -22,8 +20,9 @@ Profissional com experiência em gestão de produtos, desenvolvimento de softwar
 
 #### Fundador | [GoT](https://gotech.education)[ech.Education](https://gotech.education) - Campinas, SP | Set/2023 – Atualmente
 
-- Desenvolvimento de MVP aplicando todo conhecimento adiquirido durante os anos desde business à computação com foco em educação, tecnologia, dados e habilidades comportamentais.
-- Integração de EdTechs, indicação de trilhas personalizadas, mentorias para jovens de comunidade e impacto social.
+- Desenvolvimento de MVP aplicando conhecimento de tecnologia, educação, dados e habilidades comportamentais.
+- Personalização de trilhas de aprendizagem e integração com EdTechs.
+- Mentorias para jovens de comunidades, com foco em impacto social.
 
 #### Engenheiro de Soluções | [Dadosfera](https://dadosfera.ai) - Belo Horizonte, MG · Remoto | Set/2024 – Abr/2025
 
