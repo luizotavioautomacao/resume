@@ -18,7 +18,7 @@ Profissional com experiência em gestão de produtos, desenvolvimento de softwar
 
 ### Experiência Profissional
 
-#### Fundador | [GoT](https://gotech.education)[ech.Education](https://gotech.education) - Campinas, SP | Set/2023 – Atualmente
+#### Fundador | [GoTech.Education](https://beta.gotech.education) - Campinas, SP | Abr/2025 – Atualmente
 
 - Desenvolvimento de MVP aplicando conhecimento de tecnologia, educação, dados e habilidades comportamentais.
 - Personalização de trilhas de aprendizagem e integração com EdTechs.
