@@ -1,127 +1,147 @@
-## Luiz Otávio Mendes de Oliveira
+## Luiz Otávio Mendes de Oliveira  
 
-Campinas/SP • Uberaba/MG  
-luizotavioautomacao@gmail.com   
-[+55(19)92000-4364](https://api.whatsapp.com/send?phone=5519920004364)   
-[Contact Card](https://luizotavio.netlify.app)   
-[Portfolio](https://luizotavio.netlify.app/portifolio)   
-[LinkedIn](https://www.linkedin.com/in/luiz-otavio-mendes-de-oliveira)   
-[GitHub](https://github.com/luizotavioautomacao)   
-[MVP](https://gotech.education)  
-[Project with Nest, Next and Jest with Github repository](https://assistir-tv.shop)  
+Belo Horizonte/MG • Campinas/SP • Uberaba/MG  
+[luizotavioautomacao@gmail.com](mailto:luizotavioautomacao@gmail.com)  
+[+55 (19) 92000-4364](https://api.whatsapp.com/send?phone=5519920004364)  
+[Digital Business Card](https://luizotavio.netlify.app)  
+[Portfolio](https://luizotavio.netlify.app/portifolio)  
+[LinkedIn](https://www.linkedin.com/in/luiz-otavio-mendes-de-oliveira)  
+[GitHub](https://github.com/luizotavioautomacao)  
 
 ---
 
-### Summary / Objective
+### Summary / Objective  
 
-Professional with experience in product management, software development, data analysis, and agile methodologies. Practical experience in developing scalable platforms and artificial intelligence solutions. My goal is to apply this knowledge to create innovative and accessible products, generating a positive impact on society and aligned with the company's strategy.
+Professional with experience in product management, software development, data analysis, and agile methodologies, with hands-on experience building scalable platforms and artificial intelligence solutions. My goal is to apply this knowledge to create innovative and accessible products, generating positive social impact while aligning with company strategy.
 
 ---
 
 ### Professional Experience
 
-#### Founder | [Gotech.Education](https://gotech.education) - Campinas, SP | Sep/2023 – Present  
-- Developed an MVP applying all knowledge acquired over the years, from business to computing, focusing on education and behavioral skills.  
-- Business modeling for B2B, B2B2C, B2C and social impact with EdTech integration.  
-- Contributed to the development of a knowledge-based AI Assistant system (RAG) using Python, LangChain, AWS S3, and GitHub Actions.   
+#### Data Engineer | [Dadosfera](https://dadosfera.ai) – Belo Horizonte, MG · On-site | Mar/2026 – Present
 
-#### Solutions Engineer | [Dadosfera](https://dadosfera.ai) - Belo Horizonte, MG · Remote | Sep/2024 – Abr/2025  
-- Developed Data Apps, Dashboards, KPIs, AI/Data Products and AutoDrive.  
-- Created the Data Maturity Assessment App in collaboration with the commercial team.  
+- Feature development on Autodrive.
+- Developing agents capable of automatically generating ETL pipelines and dashboards.
+
+#### Founder – Software & Data Engineer | [GoTech.Education](https://gotech.education) – Campinas, SP | Apr/2025 – Mar/2026
+
+- MVP development combining technology, education, data, and behavioral skills.
+- Development of behavioral assessment tools applying neuroscience methodologies.
+- Design and implementation of pipelines and algorithms for ideal candidate–company matching.
+- Creation of Individual Development Plans (IDPs) with personalized learning paths.
+- Mentoring young people from underserved communities, focusing on social impact.
+
+#### Solutions Engineer | [Dadosfera](https://dadosfera.ai) – Belo Horizonte, MG · Remote | Sep/2024 – Apr/2025
+
+* Development of Data Apps, Dashboards, KPIs, Data/AI Products, and AutoDrive solutions.
+* Creation of a Data Maturity Assessment Data App in partnership with the commercial team.
+* Contribution to the development of an AI Assistant based on a knowledge base (RAG) using Python, LangChain, AWS S3, and GitHub Actions.
+* ETL processing with Snowflake.
 
 #### Software & Data Engineer | [OP Club](https://opclub.gg) – Campinas, SP · Remote | Mar/2024 – Aug/2024
-- Developed an MVP focused on a pre-match assistant tool for the game League of Legends (LoL), integrated directly into [Discord](https://discord.com/oauth2/authorize?client_id=1228089697088311298&response_type=code&redirect_uri=https%3A%2F%2Fwww.opclub.gg%2FgetDiscordToken&scope=email+identify).  
-- Implemented robust data pipelines using web scraping techniques for automated data collection.  
-- Designed an analytical application architecture using PostgreSQL and Django to optimize data storage and processing.  
-- [Front-End](https://opclub.netlify.app) in React.  
-- Python, Django, PostgreSQL, Heroku, React.  
 
-#### Web Supervisor & Software Engineer | [DMA Electronics](http://dma.ind.br) - [Mecânica Avançada](https://mecanicaavancada.com.br) - Campinas, SP · Hybrid | Jun/2019 – Mar/2024  
-- Developed [newtecnoscopio.com.br](https://newtecnoscopio.com.br) using Node.js, Angular, MongoDB, Docker, docker-compose, cloud platforms, Swagger and Analytics.  
-- Integrated external APIs (YouTube OAuth2, RdStation, Cielo, GerenciaNet, ERP).  
-- Led the team and managed backlog, sprints, OKRs and releases.  
-- Ensured platform security and availability using DNS, HTTPS, and SSL.  
-- Infrastructure migration.  
+* Development of an MVP focused on a pre-match assistant for the game League of Legends (LoL), integrated directly into [Discord](https://discord.com/oauth2/authorize?client_id=1228089697088311298&response_type=code&redirect_uri=https%3A%2F%2Fwww.opclub.gg%2FgetDiscordToken&scope=email+identify).
+* Implementation of robust pipelines using web scraping techniques for automated data collection.
+* Design of analytical application architecture using PostgreSQL and Django to optimize data storage and processing.
+* [Front-end](https://opclub.netlify.app) developed in React.
+* Technologies: Python, Django, PostgreSQL, Heroku, React.
 
-#### Backend Developer | [Starcorp](http://www.starcorp.com.br) - Campinas, SP | Dec/2017 – Jul/2018  
-- Backend development using C#, ASP.NET, Entity Framework (ORM), SQL, Web API, REST, JSON, SVN.
+#### Web Supervisor & Software Engineer | [DMA Electronics](http://dma.ind.br) / [Mecânica Avançada](https://mecanicaavancada.com.br) – Campinas, SP · Hybrid | Jun/2019 – Mar/2024
 
-#### Scientific Research | UFOP – Escola de Minas - Ouro Preto, MG | Oct/2015 – May/2017  
-- Built the university's first remote laboratory: [WebLab Gorceix](https://decat.ufop.br/weblab-gorceix)  
-- Backend (C#), Frontend (ASP.NET), Database (MySQL), DevOps (WAMP & IIS), PCB design, sensor calibration, power board, TCP/IP, client-server architecture, control theory, PIC microcontroller, ENC28J60, data analysis, and PI controller design with Matlab.
+* Development of the platform [newtecnoscopio.com.br](https://newtecnoscopio.com.br) using Node.js, Angular, MongoDB, Docker, Docker Compose, Cloud services, Swagger, CI/CD, Analytics, and Git.
+* Integration with external APIs (YouTube OAuth2, RD Station, Cielo, Gerencianet, ERP systems).
+* Team leadership and management of backlog, sprints, OKRs, and releases.
+* Ensured security and availability through DNS, HTTPS, and SSL.
+* Infrastructure migration.
 
-#### Intern | Fundação Gorceix - Ouro Preto, MG | Jan/2015 – Jul/2015  
-- Developed PCBs and programmed microcontrollers using C.
+#### Programmer | [Starcorp](http://www.starcorp.com.br) – Campinas, SP | Dec/2017 – Jul/2018
 
----
+* Back-end development with C#, ASP.NET, Entity Framework (ORM), SQL Server, Web API, REST, JSON, and SVN.
 
-### Academic Background
+#### Undergraduate Researcher | UFOP – School of Mines – Ouro Preto, MG | Oct/2015 – May/2017
 
-#### Master's in Computational Mechanics (Incomplete) | Unicamp | Campinas, SP - Aug/2017 – Jun/2018  
-- FPGA - [Prof. Euripedes Guilherme de Oliveira Nobrega](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4793197T1)  
-- RTOS and Hardware Configuration - [Prof. Denis Loubach](http://www.comp.ita.br/~dloubach)  
-- VHDL, C++
+* Creation of the university’s first remote laboratory: [WebLab Gorceix](https://decat.ufop.br/weblab-gorceix).
+* Back-end (C#), Front-end (ASP.NET), Database (MySQL), DevOps (WAMP and IIS), PCB design, sensor calibration, power boards, TCP/IP, client-server architecture, Control Theory, PIC microcontrollers, ENC28J60, data analysis, and PI controller design using Matlab.
 
-#### [Bachelor's in Control and Automation Engineering](https://zeppelin10.ufop.br/SistemaAcademico/MatrizCurricular?codCurso=AUT) | University Federal of Ouro Preto [UFOP](https://ufop.br) | Ouro Preto, MG - Jan/2010 – Jul/2017  
-- Graduation committee member  
-- Research project and [thesis](https://www.monografias.ufop.br/handle/35400000/440) [2015 – 2017]  
-- PCB and microcontroller internship [2014 – 2015]  
-- Treasurer of the [Control and Automation Student Council](https://decat.ufop.br/caeca) [2014 – 2015]  
-- Project Director of the [Control and Automation Student Council](https://decat.ufop.br/caeca) [2013 – 2014]
+#### Intern | Fundação Gorceix – Ouro Preto, MG | Jan/2015 – Jul/2015
+
+* PCB development and C programming for microcontrollers.
 
 ---
 
-### Behavioral Skills
+### Education
 
-Communication, Proactivity, Adaptability, Teamwork, Resilience, Organization, Creativity, Leadership, Confidence
+#### Master’s Degree in Computational Mechanics (Incomplete) | State University of Campinas – UNICAMP | Campinas, SP | Aug/2017 – Jun/2018
+
+* FPGA – Prof. Euripedes Guilherme de Oliveira Nobrega
+* RTOS and Hardware Configuration – Prof. Denis Loubach
+* VHDL, C++
+
+#### Bachelor’s Degree in Control and Automation Engineering | Federal University of Ouro Preto – UFOP | Ouro Preto, MG | Jan/2010 – Jul/2017
+
+* Member of the graduation committee.
+* Undergraduate research project and final thesis (2015–2017).
+* Internship in PCB design and microcontrollers (2014–2015).
+* Treasurer of the Control and Automation Academic Center (2014–2015).
+* Project Director of the Control and Automation Academic Center (2013–2014).
+
+---
+
+### Soft Skills
+
+Communication, Proactivity, Adaptability, Teamwork, Resilience, Organization, Creativity, Leadership, Strong interpersonal skills.
 
 ---
 
 ### Technical Skills
 
-- **Data**: Python, SQL, NoSQL, Metabase, Snowflake, Jupyter, Orchest, Matlab  
-- **Programming**: Node.js, Ruby, TypeScript, C, C++, C#  
-- **Databases**: MySQL, PostgreSQL, SQLite, MongoDB  
-- **Frontend**: Angular, React, Streamlit, Ruby on Rails, HTML5, CSS3  
-- **Mobile**: Ionic, Capacitor     
-- **Frameworks**: Express, Mongoose, Entity, Flask, Django, Pandas, Openai, Langchain  
-- **Infrastructure & DevOps**: Docker, Docker-Compose, AWS (EC2, S3), CI/CD, Cloud, Linux, Windows, Nginx  
-- **Networking & Protocols**:  HTTP, HTTPS, SSL, DNS, TCP/IP, REST, JSON, YML, Cliente-Servidor, WebSocket    
-- **Tools**: Git, Swagger, Hubspot, JIRA, Office, Web scraping, Charles Proxy   
-- **Best Practices**: Clean Architecture, SOLID, TDD, DDD, Scrum, Kanban, PMBOK  
+* **Data**: Python, SQL, NoSQL, Metabase, Snowflake, Jupyter, Orchest, Matlab
+* **Programming**: Node.js, Ruby, TypeScript, C, C++, C#
+* **Databases**: MySQL, SQL Server, PostgreSQL, SQLite, MongoDB
+* **Front-end**: Angular, React, Streamlit, Ruby on Rails, HTML5, CSS3
+* **Mobile**: Ionic, Capacitor
+* **Frameworks**: Express, Mongoose, Entity Framework, Flask, Django, Pandas, OpenAI, LangChain, PySpark
+* **Infrastructure & DevOps**: Docker, Docker Compose, AWS (EC2, S3), CI/CD, Cloud, Linux, Windows, Nginx
+* **Networking & Protocols**: HTTP, HTTPS, SSL, DNS, TCP/IP, REST, JSON, YAML, Client–Server, WebSocket
+* **Tools**: Git, Swagger, HubSpot, Jira, Office Suite, Web scraping, Charles Proxy
+* **AI coding agents**: Claude Code, Cursor, Codex
+* **Best Practices**: Clean Architecture, SOLID, TDD, DDD, Scrum, Kanban, PMBOK
 
 ---
 
 ### Languages
 
-- Portuguese: Native  
-- English: B2  
-- Spanish: Intermediate  
-- German: Basic
+* Portuguese: Native
+* English: B2
+* Spanish: Intermediate
+* German: Basic
 
 ---
 
 ### Entrepreneurship
 
-#### [Sebrae for StartUps](https://sebrae.com.br/sites/PortalSebrae/ufs/sp/sebraeaz/startup-sp-sebrae,59bb8c2864761610VgnVCM1000004c00210aRCRD) - [7th Edition](https://sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/SP/Programas%20e%20Solu%c3%a7%c3%b5es/StartupSP/StartupSP%20-%20Edital%202020.1.pdf) | Campinas, SP | Mar/2020 – Jun/2020  
-- [Lean Canvas Board](https://canvanizer.com/canvas/wFRWRurhIeqV2) for [SalesBrazil](https://salesbrazil.netlify.app)  
-- Sales Funnel and Marketing  
-- Customer Success / Persona / ICP / Inbound / Outbound  
-- Design Thinking  
-- Discovery  
-- MVP
+#### [Sebrae for Startups](https://sebrae.com.br/sites/PortalSebrae/ufs/sp/sebraeaz/startup-sp-sebrae,59bb8c2864761610VgnVCM1000004c00210aRCRD) – 7th Edition | Campinas, SP | Mar/2020 – Jun/2020
+
+* Lean Canvas Board for SalesBrazil.
+* Sales and Marketing Funnel design.
+* Customer Success, Persona definition, ICP, Inbound and Outbound strategies.
+* Design Thinking.
+* Discovery process.
+* MVP development.
 
 ---
 
-### Extra Curricular
+### Additional Education
 
-- NodeJs, TypeScript, TDD, DDD, Clean Architecture and SOLID | [Udemy - Prof. Rodrigo Manguinho](https://www.udemy.com/course/tdd-com-mango)  
-- ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID, Cypress | [Udemy - Prof. Rodrigo Manguinho](https://www.udemy.com/course/react-com-mango)
+* Node.js, TypeScript, TDD, DDD, Clean Architecture, SOLID | Udemy – Prof. Rodrigo Manguinho
+* ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID, Cypress | Udemy – Prof. Rodrigo Manguinho
+* Ruby on Rails Program – The Pragmatic Studio
+* Apache Spark with PySpark – Udemy
 
 ---
 
 ### Next Studies
 
-- [Kafka](https://kafka.apache.org)    
-- [Terraform](https://developer.hashicorp.com/terraform)  
-- [Machine Learning](https://scikit-learn.org)  
+* Kafka
+* Terraform
+* Machine Learning (scikit-learn)
