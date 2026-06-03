@@ -36,8 +36,8 @@ def main():
     css_path = Path("static/style.css")
 
     files = [
-        ("docs/pt_br.md", "docs/pt_br.pdf"),
-        ("docs/en_us.md", "docs/en_us.pdf"),
+        ("docs/personalizado.md", "docs/personalizado.pdf"),
+        ("docs/geral.md", "docs/geral.pdf"),
     ]
 
     for md_file, pdf_file in files:
