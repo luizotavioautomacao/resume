@@ -36,8 +36,15 @@ def main():
     css_path = Path("static/style.css")
 
     files = [
-        ("docs/personalizado.md", "docs/personalizado.pdf"),
-        ("docs/geral.md", "docs/geral.pdf"),
+        # ("docs/pt_br.md", "docs/pt_br.pdf"),
+        # ("docs/carta.md", "docs/carta.pdf"),
+        # ("docs/en_us.md", "docs/en_us.pdf"),
+        ("docs/dadosfera.md", "docs/dadosfera.pdf"),
+        # ("docs/gabriela_duque.md", "docs/gabriela_duque.pdf"),
+        # ("docs/guilherme_teixeira.md", "docs/guilherme_teixeira.pdf"),
+        # ("docs/victor_haruo.md", "docs/victor_haruo.pdf"),
+        # ("docs/dp6_test.md", "docs/dp6_test.pdf"),
+        # ("docs/dissertation.md", "docs/dissertation.pdf"),
     ]
 
     for md_file, pdf_file in files:
